@@ -63,7 +63,7 @@ docker compose up -d
 
 点击一键部署，**包含自动升级更新**
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/KIQWgJ?referralCode=t4q678)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/KIQWgJ?referralCode=t4q678&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
 配置页填写邮箱和激活码等配置
 
